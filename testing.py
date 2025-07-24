@@ -1,0 +1,1 @@
+print("hey i am jahir sayyed")
